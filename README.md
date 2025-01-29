@@ -4,7 +4,7 @@ The **Container Number Extractor (CNE)** is used to extract the container detail
 ## Project Components
 
 - Python
-- Streamlit (platform) for Frontend
+- Streamlit >(platform) for Frontend
 - Google's generativeai (package) 
   
 
