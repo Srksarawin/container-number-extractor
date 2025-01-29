@@ -4,13 +4,13 @@ The **Container Number Extractor (CNE)** is used to extract all the container de
 ## To run the project
 
 - **Step 1:** Create a virtual environment (venv)
-        + pip install -r requirements.txt
+   + pip install -r requirements.txt
 - **Step 2:** Setup the environment (activate)
-        + .\venv\Scripts\activate
+   + .\venv\Scripts\activate
 - **Step 3:** Install the requirements (packages)
-        + pip install -r requirements.txt
+   + pip install -r requirements.txt
 - **Step 4:** Run
-        + Streamlit run extractor.py  
+   + Streamlit run extractor.py  
   
 
 
