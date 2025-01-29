@@ -1,4 +1,4 @@
 # Container Number Extractor (CNE)
-![alt text](https://github.com/Srksarawin/container-number-extractor/blob/main/image.jpg?raw=true)
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
   
 ## Project Description
