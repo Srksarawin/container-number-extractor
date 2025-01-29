@@ -5,13 +5,12 @@ The **Container Number Extractor (CNE)** is used to extract all the container de
 
 ## Project Components
 - Python
-- Streamlit
 
 ## To run the project
 
 - **Step 1:** Create a virtual environment (venv)
 - **Step 2:** Activate the environment
 - **Step 3:** Install the requirements (packages)
-- **Step 4:** Run
+- **Step 4:** Run the file
 
 
