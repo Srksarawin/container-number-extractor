@@ -1,4 +1,4 @@
 # Container Number Extractor (CNE)
-[image](image.jpg)
+![image](image.jpg)
   
 ## Project Description
