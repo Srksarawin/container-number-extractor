@@ -7,7 +7,6 @@ The **Container Number Extractor (CNE)** is used to extract all the container de
 
 
 
-
 ## To run the project
 
 - **Step 1:** Create a virtual environment (venv)
