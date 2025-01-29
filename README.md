@@ -3,6 +3,7 @@ The **Container Number Extractor (CNE)** is used to extract all the container de
 
 ## Project Components
 - Python
+- Streamlit
 
 ## To run the project
 
